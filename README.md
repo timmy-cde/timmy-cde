@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Timothy Manuel 👋
+
+[Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ktsm7905)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmanuel-timmy-cde)
 
 <!--
 **timmy-cde/timmy-cde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
