@@ -16,8 +16,8 @@ Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer
 * [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
 
 ## 🚀 Upcoming Projects
-* Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS
-* E-Commerce Web App - refactor code to Reactjs(Vite) + TailwindCSS + Nodejs + MongoDB + GraphQL
+* Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS ([Current Version](https://timmy-cde.github.io/webportfolio/))
+* E-Commerce Web App - refactor code to Reactjs(Vite) + TailwindCSS + Nodejs + MongoDB + GraphQL ([Current Version](https://mern-full-stack-kkc6up71p-timmy-cde.vercel.app/))
 * Amazon Products Web Scrape - web scrape Amazon musical products using Python for E-Commerce data
 
 <!--
