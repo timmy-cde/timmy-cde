@@ -3,6 +3,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ktsm7905)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmanuel-timmy-cde)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;AWS+Cloud+Practitioner;Career+Shifter;Electronics+Engineer;Violinist)](https://git.io/typing-svg)
+
 <!--
 **timmy-cde/timmy-cde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
