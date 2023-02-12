@@ -11,14 +11,14 @@ Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,react,vite,nodejs,apollo,express,mongodb,mysql,graphql,postman,vercel,aws,git,github,vscode)](https://skillicons.dev)
 
 ## 💻 Currently Learning
-..* [The Joy of React](https://www.joyofreact.com/) by Josh W. Comeau
-..* [Apollo GraphQL Professional](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) by [Apollo Odyssey](https://www.apollographql.com/tutorials/)
-..* [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
+* [The Joy of React](https://www.joyofreact.com/) by Josh W. Comeau
+* [Apollo GraphQL Professional](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) by [Apollo Odyssey](https://www.apollographql.com/tutorials/)
+* [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
 
 ## 🚀 Upcoming Projects
-..* Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS
-..* E-Commerce Web App - refactor code to Reactjs(Vite) + TailwindCSS + Nodejs + MongoDB + GraphQL
-..* Amazon Products Web Scrape - web scrape Amazon musical products using Python for E-Commerce data
+* Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS
+* E-Commerce Web App - refactor code to Reactjs(Vite) + TailwindCSS + Nodejs + MongoDB + GraphQL
+* Amazon Products Web Scrape - web scrape Amazon musical products using Python for E-Commerce data
 
 <!--
 **timmy-cde/timmy-cde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
