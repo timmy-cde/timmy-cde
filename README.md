@@ -11,9 +11,12 @@ Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,react,vite,nodejs,apollo,express,mongodb,mysql,graphql,postman,vercel,aws,git,github,vscode)](https://skillicons.dev)
 
 ## 💻 Currently Learning
+* [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
 * [The Joy of React](https://www.joyofreact.com/) by Josh W. Comeau
 * [Apollo GraphQL Professional](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) by [Apollo Odyssey](https://www.apollographql.com/tutorials/)
-* [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
+
+## 🔭 On going Projects
+* Project Neo in collaboration with [idiglove](https://github.com/idiglove) and [jandranrebbalangue](https://github.com/jandranrebbalangue)
 
 ## 🚀 Upcoming Projects
 * Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS ([Current Version](https://timmy-cde.github.io/webportfolio/))
