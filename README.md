@@ -1,7 +1,6 @@
 # Hi, I'm Timothy Manuel 👋
 
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ktsm7905) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmanuel-timmy-cde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmanuel-timmy-cde)![](https://komarev.com/ghpvc/?username=timmy-cde&style=flat-square&color=brightgreen)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Software+Developer;AWS+Cloud+Practitioner;Career+Shifter;Electronics+Engineer;Violinist;Nice+to+meet+you!....)](https://git.io/typing-svg)
 
@@ -10,7 +9,10 @@ Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer
 ## 🛠️ Techonologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,ts,php,bootstrap,react,vite,nodejs,express,nestjs,apollo,mongodb,mysql,graphql,postman,vercel,aws,bash,git,github,vscode)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmy-cde&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=ocean_dark)](https://github.com/timmy-cde/github-readme-stats)
+
 ## 💻 Currently Learning
+* Solana by NAS Academy
 * [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
 * [The Joy of React](https://www.joyofreact.com/) by Josh W. Comeau
 * [Apollo GraphQL Professional](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) by [Apollo Odyssey](https://www.apollographql.com/tutorials/)
@@ -21,11 +23,14 @@ Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer
 ## 🚀 Upcoming Projects
 * Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS ([Current Version](https://timmy-cde.github.io/webportfolio/))
 * E-Commerce Web App - refactor code to Reactjs(Vite) + TailwindCSS + Nodejs + MongoDB + GraphQL ([Current Version](https://mern-full-stack-kkc6up71p-timmy-cde.vercel.app/))
-* Amazon Products Web Scrape - web scrape Amazon musical products using Python for E-Commerce data
+
+## 📊 Github Stats
+![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmy-cde&show_icons=true&theme=ocean_dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timmy-cde&theme=ocean-dark&hide_border=false)
 
 <!--
 **timmy-cde/timmy-cde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
