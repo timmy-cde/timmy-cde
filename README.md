@@ -18,6 +18,7 @@ Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer
 * [Apollo GraphQL Professional](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) by [Apollo Odyssey](https://www.apollographql.com/tutorials/)
 
 ## 🔭 On going Projects
+* [Cruddur](https://github.com/timmy-cde/aws-bootcamp-cruddur-2023) in [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/)
 * Project Neo in collaboration with [idiglove](https://github.com/idiglove) and [jandranrebbalangue](https://github.com/jandranrebbalangue)
 
 ## 🚀 Upcoming Projects
