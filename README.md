@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmanuel-timmy-cde)![](https://komarev.com/ghpvc/?username=timmy-cde&style=flat-square&color=brightgreen)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Software+Developer;AWS+Cloud+Practitioner;Career+Shifter;Electronics+Engineer;Violinist;Nice+to+meet+you!....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Software+Developer;AWS+Cloud+Practitioner;Solana+Enthusiast;Career+Shifter;Electronics+Engineer;Violinist;Nice+to+meet+you!....)](https://git.io/typing-svg)
 
-Software Developer, AWS Cloud Practitioner, Career Shifter, Electronics Engineer, Violinist
+Software Developer, AWS Cloud Practitioner, Solana Enthusiast, Career Shifter, Electronics Engineer, Violinist
 
 ## 🛠️ Techonologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,ts,php,bootstrap,react,vite,nodejs,express,nestjs,apollo,mongodb,mysql,graphql,postman,vercel,aws,bash,git,github,vscode)](https://skillicons.dev)
