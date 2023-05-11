@@ -7,7 +7,7 @@
 Software Developer, AWS Cloud Practitioner, Solana Enthusiast, Career Shifter, Electronics Engineer, Violinist
 
 ## 🛠️ Techonologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,ts,php,bootstrap,react,vite,nodejs,express,nestjs,apollo,mongodb,mysql,graphql,postman,vercel,aws,bash,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,ts,rust,cpp,php,bootstrap,react,vite,nodejs,express,nestjs,apollo,mongodb,mysql,graphql,postman,vercel,aws,bash,git,github,vscode)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmy-cde&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=ocean_dark)](https://github.com/timmy-cde/github-readme-stats)
 
