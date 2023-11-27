@@ -25,13 +25,17 @@ Software Developer, AWS Cloud Practitioner, Solana Enthusiast, Career Shifter, E
 ## 🔭 Finished Projects
 * [Cruddur](https://github.com/timmy-cde/aws-bootcamp-cruddur-2023) in [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/)
 
+<!--
 ## 🚀 Upcoming Projects
 * Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS ([Current Version](https://timmy-cde.github.io/webportfolio/))
 * E-Commerce Web App - refactor code to Reactjs(Vite) + TailwindCSS + Nodejs + MongoDB + GraphQL ([Current Version](https://mern-full-stack-kkc6up71p-timmy-cde.vercel.app/))
+-->
 
+<!--
 ## 📊 Github Stats
 ![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmy-cde&show_icons=true&theme=ocean_dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timmy-cde&theme=ocean-dark&hide_border=false)
+-->
 
 <!--
 **timmy-cde/timmy-cde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
