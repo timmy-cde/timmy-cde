@@ -12,14 +12,18 @@ Software Developer, AWS Cloud Practitioner, Solana Enthusiast, Career Shifter, E
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmy-cde&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=ocean_dark)](https://github.com/timmy-cde/github-readme-stats)
 
 ## 💻 Currently Learning
-* Solana by NAS Academy
-* [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown
+* Solana by Buildspace
 * [The Joy of React](https://www.joyofreact.com/) by Josh W. Comeau
 * [Apollo GraphQL Professional](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) by [Apollo Odyssey](https://www.apollographql.com/tutorials/)
 
+<!--
 ## 🔭 On going Projects
+* 
+* Project Neo in collaboration with [idiglove](https://github.com/idiglove) and [jandranrebbalangue](https://github.com/jandranrebbalangue) 
+-->
+
+## 🔭 Finished Projects
 * [Cruddur](https://github.com/timmy-cde/aws-bootcamp-cruddur-2023) in [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/)
-* Project Neo in collaboration with [idiglove](https://github.com/idiglove) and [jandranrebbalangue](https://github.com/jandranrebbalangue)
 
 ## 🚀 Upcoming Projects
 * Web Portfolio - refactor code to Reactjs(Vite) + TailwindCSS ([Current Version](https://timmy-cde.github.io/webportfolio/))
